@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9D34A33D-86E9-4702-9CB6-7A178A6ADEBD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LEUIFrameworkDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B9E7B8901B5F603FBA362E2BC8FD3B58E9EC022</key>
+		<string>https://github.com/LarryEmerson/LEUIFramework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LEUIFrameworkDemo/LEUIFrameworkDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B9E7B8901B5F603FBA362E2BC8FD3B58E9EC022</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LarryEmerson/LEUIFramework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B9E7B8901B5F603FBA362E2BC8FD3B58E9EC022</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B9E7B8901B5F603FBA362E2BC8FD3B58E9EC022</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LEUIFramework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
